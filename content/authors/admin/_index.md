@@ -6,23 +6,23 @@ title: Dhruv Patel
 superuser: true
 
 # Role/position
-role: ''
+role: 'Student'
 
 # Status emoji
 status:
   icon: 
 
 # Organizations/Affiliations
-#organizations:
-#- name: University of Huddersfield
-#  url: "https://www.hud.ac.uk/"
+organizations:
+name: University of Huddersfield
+url: "https://www.hud.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
 
 #interests:
-#- Internet of Things
-#- High performance computing
+- Internet of Things
+- High performance computing
 
 
 #education:
@@ -44,7 +44,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'about/#contact' # For a direct email link, use "mailto:dhruvpatel654321@gmail.com".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/FutureDhruv
@@ -63,11 +63,9 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "dhruvpatel654321@gmail.com"
+email: "dhruvpatel654321@gmail.com"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Alice Wu i
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
